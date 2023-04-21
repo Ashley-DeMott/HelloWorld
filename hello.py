@@ -1,4 +1,4 @@
-print("Hello World")
+print("Hello World!")
 
-text = "Testing this once more"
+text = "Hello again"
 print(text)
