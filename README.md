@@ -1,20 +1,11 @@
 # HelloWorld
 
 ## Overview
+This project contains a simple "Hello World" project for both Python and C++. I also wanted to make sure I had development for C++ projects set up correctly in Visual Studio Code.
 
-{Talk about what you are trying to accomplish as a software engineer to further your learning.}
-A "Hello World" project to start off
+To run the C++ file in VS Code, the project folder must be opened using Developer Command Prompt for VS.
 
-This code contains a .py file that prints "Hello World!" to the console.
-
-To run the C++ file, the folder must be opened using the Developer Command Prompt for VS
-
-{Describe your purpose for creating this software.}
-To show I am able to develop programs in Python and C++
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](enter link)
 
 ## Development Environment
 
@@ -31,4 +22,4 @@ To show I am able to develop programs in Python and C++
 
 {Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/)
-* [Web Site Name](http://url.link.goes.here)
+* [Visual Studio Code](https://code.visualstudio.com/docs/cpp/config-msvc)
