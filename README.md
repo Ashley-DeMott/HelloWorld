@@ -5,7 +5,7 @@ This project contains a simple "Hello World" project for both Python and C++. I 
 
 To run the C++ file in VS Code, the project folder must be opened using Developer Command Prompt for VS.
 
-[Software Demo Video](enter link)
+[Software Demo Video](https://youtu.be/5o4rU8fbA1Q)
 
 ## Development Environment
 
