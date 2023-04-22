@@ -19,7 +19,5 @@ To run the C++ file in VS Code, the project folder must be opened using Develope
 - C++ (helloPlus.cpp)
 
 ## Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/)
 * [Visual Studio Code](https://code.visualstudio.com/docs/cpp/config-msvc)
